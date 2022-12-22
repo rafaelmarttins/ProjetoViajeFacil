@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ViajeFacil.Dominio.EF;
 using ViajeFacil.Poco;
 using ViajeFacil.Service.Viagem;
@@ -7,7 +6,7 @@ using ViajeFacil.Service.Viagem;
 namespace ViajeFacilApi.Controllers
 {
     /// <summary>
-    /// 
+    ///
     /// </summary>
     [Route("api/viajefacil/[controller]")]
     [ApiController]
@@ -16,7 +15,7 @@ namespace ViajeFacilApi.Controllers
         private RotaService servico;
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="context"></param>
         public RotaController(ViajeFacilContexto context) : base()

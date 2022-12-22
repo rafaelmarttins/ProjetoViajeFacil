@@ -7,7 +7,7 @@ using ViajeFacil.Service.Viagem;
 namespace ViajeFacilApi.Controllers
 {
     /// <summary>
-    /// 
+    ///
     /// </summary>
     [Route("api/viajefacil/[controller]")]
     [ApiController]
@@ -16,7 +16,7 @@ namespace ViajeFacilApi.Controllers
         private CidadeService servico;
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="context"></param>
         public CidadeController(ViajeFacilContexto context) : base()
@@ -109,7 +109,6 @@ namespace ViajeFacilApi.Controllers
                 return BadRequest(ex.ToString());
             }
         }
-
 
         /// <summary>
         ///  Lista os registro usando a chave de Cidade.

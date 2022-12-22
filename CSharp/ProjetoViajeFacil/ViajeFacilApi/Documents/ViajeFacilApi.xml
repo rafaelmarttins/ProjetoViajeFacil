@@ -6,12 +6,10 @@
     <members>
         <member name="T:ViajeFacilApi.Controllers.CidadeController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.CidadeController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -69,12 +67,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.EnderecoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.EnderecoController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -123,12 +119,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.EstadoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.EstadoController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -177,12 +171,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.EventoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.EventoController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -245,7 +237,6 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.InstituicaoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.InstituicaoController.GetAll(System.Nullable{System.Int32},System.Nullable{System.Int32})">
@@ -293,12 +284,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.PaisController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.PaisController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -340,12 +329,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.ParticipanteEventoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.ParticipanteEventoController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -401,12 +388,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.PontoParadaController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.PontoParadaController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -455,12 +440,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.RegiaoController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.RegiaoController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -509,12 +492,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.RotaController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.RotaController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -556,12 +537,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.TipoUsuarioController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.TipoUsuarioController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>
@@ -603,12 +582,10 @@
         </member>
         <member name="T:ViajeFacilApi.Controllers.UsuarioController">
             <summary>
-            
             </summary>
         </member>
         <member name="M:ViajeFacilApi.Controllers.UsuarioController.#ctor(ViajeFacil.Dominio.EF.ViajeFacilContexto)">
             <summary>
-            
             </summary>
             <param name="context"></param>
         </member>

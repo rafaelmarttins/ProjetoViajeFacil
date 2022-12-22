@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ViajeFacil.Dominio.EF;
 using ViajeFacil.Poco;
 using ViajeFacil.Service.Viagem;
@@ -7,7 +6,7 @@ using ViajeFacil.Service.Viagem;
 namespace ViajeFacilApi.Controllers
 {
     /// <summary>
-    /// 
+    ///
     /// </summary>
     [Route("api/viajefacil/[controller]")]
     [ApiController]
@@ -39,7 +38,6 @@ namespace ViajeFacilApi.Controllers
                 return BadRequest(ex.ToString());
             }
         }
-
 
         /// <summary>
         /// Listar todos os registros de Instituição por chave Endereço.
